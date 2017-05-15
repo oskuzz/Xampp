@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun May 14 16:50:14 EEST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.3 - (1557168): instance a816c00e-015c-0739-48a4-000005af1e18 
+on database directory memory:C:\Users\s1601396\Downloads\Sql+VOIMAharjoittelu\Sql VOIMAharjoittelu\EsimerkkiA2016Asiakaskanta with class loader sun.misc.Launcher$AppClassLoader@70dea4e 
+Loaded from file:/C:/Users/s1601396/Downloads/Sql+VOIMAharjoittelu/Sql%20VOIMAharjoittelu/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=C:\Users\s1601396\Downloads\Sql+VOIMAharjoittelu\Sql VOIMAharjoittelu
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
